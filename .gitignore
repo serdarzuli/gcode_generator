@@ -1,0 +1,3 @@
+.venv
+gcode_generator/__pycache__/
+__pycache__/gui.cpython-311.pyc
