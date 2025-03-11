@@ -14,6 +14,18 @@ This project is a Python-based G-Code generator and simulator for CNC milling an
   - Built with `tkinter` for easy interaction.
   - Save generated G-Code to a file.
 
+## 🚀 Samples
+
+
+<img width="1270" alt="triagle_gui" src="https://github.com/user-attachments/assets/bceed22a-b848-41fd-b9c3-f62659231496" />
+
+<img width="1271" alt="Gui" src="https://github.com/user-attachments/assets/598343ec-c2fa-408d-add9-e67b02711d1e" />
+
+![newplot](https://github.com/user-attachments/assets/a4046902-40bb-4cb1-bdc1-2d45380ed50d)
+
+
+
+
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
